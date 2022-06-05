@@ -19,4 +19,8 @@
   
 <div>
   <a href="https://www.linkedin.com/in/davyd-seal-42737aa5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"></a>
+  <a href = "mailto:davydseal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
   </div>
+  
+  ![Snake animation](https://github.com/davydseal/davydseal/blob/output/github-contribution-grid-snake.svg)
