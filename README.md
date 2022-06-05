@@ -1,0 +1,1 @@
+- 👋 Olá estou em busca de um trabalho, estou disposto a trabalhar e aprender, tenho alguns projetos desenvolvidos em html, css, php, java, eu quero poder pagar a minha faculdade de sistemas de informação.
